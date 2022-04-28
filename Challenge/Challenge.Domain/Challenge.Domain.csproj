@@ -15,4 +15,8 @@
     <Folder Include="QueueModels\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Challenge.Infrastructure\Challenge.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
